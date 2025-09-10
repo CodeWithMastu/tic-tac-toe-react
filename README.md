@@ -21,4 +21,4 @@ A simple Tic-Tac-Toe (XO) game built with **React**.
 
 ## 🌍 Deployment
 
-This project is deployed with Vercel 
+This project is deployed with [Vercel](https://tic-tac-toe-react-puce-five.vercel.app/).  
